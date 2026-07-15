@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Writing in Environmental and Resource Policy"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Uconn, Department of Agricultural & Resource Economics"
+date: Spring 2026
+location: "Storrs, CT"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Enrollment: 32 students; Teaching evaluation: 4.7/5.0.
 
 Heading 1
 ======
